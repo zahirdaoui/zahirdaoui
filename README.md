@@ -6,8 +6,8 @@ Looking for an **internship / junior position** · Available [immediately / from
 ## 🚀 About Me
 - I build secure backend systems with **Java & Spring Boot** and modern frontends with **Angular / React**
 - I enjoy microservices, authentication & security, and clean REST APIs
-- Currently learning: [e.g. Kubernetes, Kafka]
-- Languages: Arabic, French, English
+- Currently learning: [e.g. Kubernetes, Kafka,Aws]
+- Languages: English 🇬🇧, German 🇩🇪
 
 ## 🛠️ Skills
 
