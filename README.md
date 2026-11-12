@@ -51,6 +51,6 @@ Login with Google, GitHub, Facebook, role-based access control, and account link
 ![Stats](https://github-readme-stats.vercel.app/api?username=[you]&show_icons=true)
 
 ## 📫 Contact
-- LinkedIn: [link]
-- Email: [your.email@gmail.com]
-- Portfolio: [link, optional]
+- LinkedIn: https://www.linkedin.com/in/ezzahir-daoui-bb39161b7
+- Email: ezzahirdaoui@gmail.com
+- Portfolio: www.ezzahir.com
